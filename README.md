@@ -1,5 +1,5 @@
 # Shark-on-the-Road
-Winner of SharkHacks 3 for Silliest Hack.
+Winner of the SharkHacks 3 hackathon for Silliest Hack.
 
 Devpost: https://devpost.com/software/shark-on-the-road
 
