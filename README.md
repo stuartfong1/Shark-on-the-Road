@@ -1,6 +1,8 @@
 # Shark-on-the-Road
 Winner of the SharkHacks 3 hackathon for Silliest Hack.
 
+This is a program that uses machine learning to detect the presence of sharks on a road.
+
 Devpost: https://devpost.com/software/shark-on-the-road
 
 ## Mac Instructions
