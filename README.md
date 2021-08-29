@@ -1,5 +1,5 @@
 # Shark on the Road
-Winner of the SharkHacks 3 hackathon for Silliest Hack.
+Winner of the SharkHacks3 hackathon for Silliest Hack.
 
 This is a program that uses machine learning to detect the presence of sharks on a road.
 
