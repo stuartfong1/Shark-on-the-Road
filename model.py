@@ -11,7 +11,7 @@ from tensorflow.keras import layers
 
 from object_detection.utils import ops, label_map_util, visualization_utils
 
-# MobileNet Object Detection
+# EfficientDet Object Detection
 DETECTION_URL = "https://tfhub.dev/tensorflow/efficientdet/d3/1"
 DETECTION_IMAGE_RES = 512
 detection_model = hub.load(DETECTION_URL)
